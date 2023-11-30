@@ -12,3 +12,4 @@ Data Analysis using MySQL Workbench on Classic Models Dataset
 ### Payments: stores payments made by customers based on their accounts.
 ### Employees: stores all employee information as well as the organization structure such as who reports to whom.
 ### Offices: stores sales office data.
+![image](https://github.com/SPARTANX21/SQL-Project-Data-Analysis-Classic-Models/assets/76092587/5c781844-e88f-4d2d-afb8-a9f61a5a5383)
