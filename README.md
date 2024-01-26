@@ -1,5 +1,7 @@
-# SQL-Project-Data-Analysis-Classic-Models
-Data Analysis using MySQL Workbench on Classic Models Dataset 
+# SQL Data Analysis of Classic Models Company
+
+![SQL](https://img.shields.io/badge/Language-%20SQL-yellow/Workbench)
+![SQL](https://img.shields.io/badge/Workbench-%20MySQL-green)
 
 ## The Classic Models dataset provides a comprehensive collection of data from a fictional company specializing in model cars. This dataset encompasses various aspects of the company's operations, such as product details, customer information, sales transactions, and employee records. 
 
